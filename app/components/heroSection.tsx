@@ -14,7 +14,7 @@ const HeroSection = () => {
             width={160}
             height={160}
             className="animation-translate animation-item-1 rounded-[5rem] mb-16 border-2 border-black"
-          ></Image>
+          />
           <h1 className="display-1 display-animated display-animated-in animation-translate animation-item-2 text-4xl lg:text-8xl font-extrabold">
             Sunilkumar
             <br />
